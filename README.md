@@ -1,7 +1,7 @@
 ### Hello! 👋
-
+Thank you for coming here! This is where I store and contribute to open-source projects!
 ![Banner](https://user-images.githubusercontent.com/91926675/158184031-a63ec970-e2c7-4c89-842c-62edd2fd1aee.png) <br>
-Thank you for coming here! This is my GitHub space where I store and contribute to open-source projects!
+
 
 # Stats
 I've got really bad GitHub stats, but I'm sharing them anyway so you can see my embarrasment.
