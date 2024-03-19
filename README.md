@@ -2,7 +2,7 @@
 
 i do random stuff online.
 
-🔭 I’m currently working on Schoolthing, an ed-tech platform for students to exchange notes and study material. It started off as a side project but it's now growing fast!<br ><br >
+🔭 I’m currently working on [Schoolthing](https://schoolthing.org), an ed-tech platform I built with my friends for students to exchange notes and study material. It started off as a side project but it's now growing fast!<br ><br >
 
  👯 I’m also looking for talented software engineers, illustrators or anyone creative to help out with a project. If this sounds like you or someone you know, email me!
 ## My stack, libraries and tools:
