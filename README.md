@@ -4,7 +4,7 @@ i do random stuff online.
 
 ## Stuff you should check out!
 - my [hobbit hole](https://pidgon.com/) on the internet.
-- the JIPMER [Blood Center](https://github.com/mikidoodle/bloodbank) Project, an open-source app for large-scale blood banks and their donors, to facilitate donor logging, donor certificates, emergency blood donation and the works.
+- the [Open Blood](https://github.com/openbloodfdn/app) Project, an open-source app for large-scale blood banks and their donors, to facilitate donor logging, donor certificates, emergency blood donation and the works.
 - [Schoolthing](https://github.com/teamschoolthing/schoolthing.org), an ed-tech platform I built with my friends for students to exchange notes and study material. We recently open-sourced it after over a year of development.
 - [?????](https://zjierb.com/)
 
